@@ -1,0 +1,48 @@
+Total Leads: 45
+Columns: Company Name, Website, Job Title, Location (Canton/City), Matched Tech & Skills, Date Posted, Days Active, Contact Point, Direct Job URL, Company size
+
+--- Lead 1 ---
+Company: triarc-laboratories
+Job Title: Senior Software Engineer (m/f) 60 - 100 %
+Location: Zürich, Neue Hard 14
+Skills: prometheus, elastic
+Date Posted: 2026-03-06
+Days Active: 4
+Direct Job URL: triarc-laboratories-Senior-Software-Engineer-mf-60---100-
+
+--- Lead 2 ---
+Company: Omnilex
+Job Title: Engineering Internship - AI/Data
+Location: Zurich, Hohlstrasse 186
+Skills: elastic
+Date Posted: 2026-02-27
+Days Active: 10
+Direct Job URL: Omnilex-Engineering-Internship---AIData
+
+--- Lead 3 ---
+Company: Cudos AG
+Job Title: Senior Software Engineer C# oder C++ - Industrial Systems
+Location: Fahrweid (Zürich), Querstrasse 17
+Skills: grafana
+Date Posted: 2026-02-24
+Days Active: 13
+Direct Job URL: Cudos-AG-Senior-Software-Engineer-C-oder-C---Industrial-Systems
+
+--- Lead 4 ---
+Company: Profidata AG
+Job Title: Backend Lead XLab
+Location: Zurich, Bändliweg 30
+Skills: elastic
+Date Posted: 2026-02-23
+Days Active: 15
+Direct Job URL: Profidata-AG-Backend-Lead-XLab
+
+--- Lead 5 ---
+Company: dynasoft AG
+Job Title: DevOps Engineer
+Location: Solothurn, Niklaus-Konrad-Strasse 16
+Skills: grafana, prometheus
+Date Posted: 2026-02-22
+Days Active: 15
+Direct Job URL: dynasoft-AG-DevOps-Engineer
+

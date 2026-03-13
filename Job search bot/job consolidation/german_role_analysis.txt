@@ -1,0 +1,20 @@
+--- Job titles containing target tools (to spot German roles) ---
+- Senior Software Engineer (m/f) 60 - 100 %
+- Senior Software Engineer C# oder C++ - Industrial Systems
+- Software Engineer - Scala (all genders)
+- DevOps Engineer
+- Test Automation Engineer (m/w/d) - Bern
+- Senior Software Engineer C# .NET
+- Senior C# Software Engineer
+- Linux & Kubernetes System Engineer
+- Senior DevOps/Cloud Engineer (WFH flexible)
+- Cloud and DevOps Engineer
+- Senior Systemingenieur - Infrastruktur & Monitoring
+- Backend Developer - TypeScript / Rust - H/F
+- Senior Systems Engineer - Infrastructure & Monitoring
+- Senior Backend Engineer Kotlin (on-site or Europe remote)
+- Expert Dynatrace
+
+
+--- Common technical German words found in tech job descriptions ---
+Looking for things like: Entwickler, Ingenieur, Architekt, Systemadministrator, Tester, Qualitätssicherung, Leistung, Zuverlässigkeit...

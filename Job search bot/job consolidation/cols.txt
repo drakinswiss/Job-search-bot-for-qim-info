@@ -1,0 +1,9 @@
+all_swissdevjobs.csv columns:
+_id,jobUrl,isPartner,isPaused,companyId,applyQuestions,longitude,latitude,cityCategory,logoImg,activeFrom,companyWebsiteLink,candidateContactWay,workplace,company,address,actualCity,postalCode,companyType,companySize,hasVisaSponsorship,language,perkKeys,name,jobType,expLevel,annualSalaryFrom,annualSalaryTo,techCategory,metaCategory,technologies,filterTags,redirectJobUrl,companyPageUrl,deactivatedOn,contractRateFrom,contractRateTo,contractRateType,remoteType,cpc,ba,personEmail,salaryFrom,salaryTo,expiresOn,liteCompanyPageUrl,partnerName
+
+ictjobs_scraped_data.xlsx columns:
+Job URL,Job Title,Company,Description,Location,Date Posted,Days Available,Workload,Company URL,Salary
+
+linkedin_jobs.xlsx columns:
+Job Title,Company,Location,Date Posted,Job URL,Contact Point,Description
+

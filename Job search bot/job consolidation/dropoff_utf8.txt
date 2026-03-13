@@ -1,0 +1,10 @@
+Raw swissdevjobs counts: 234
+Raw ictjobs counts: 113
+Raw linkedin counts: 37
+Total raw leads: 384
+
+Total leads after concatenation: 384
+Leads with matching Tech/Keywords: 45
+Leads with Germanic Location: 259
+Leads with BOTH (Before deduplication): 31
+Final deduplicated leads (german_swiss_qim_leads.xlsx): 45
